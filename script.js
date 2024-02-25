@@ -15,7 +15,7 @@ let object = {
 }
 
 
-if(random>0.1){
+if(random<0.1){
 
   operation = object[operation];
   console.log(`Answer is ${eval(`${first_number}${operation}${second_number}`)}`);
