@@ -1,3 +1,6 @@
+THIS WAS THE FIRST PROJECT DURING MY JAVASCRIPT LEARNING..
+
+
 Prepared a basic logic for Faulty Calculator
 
 What does Faulty Calculator does ?
